@@ -1,0 +1,38 @@
+
+.fl{
+  display: flex;
+  width: 100%;
+}
+
+
+.fdc{
+  flex-direction: column;
+}
+.fdr{
+  flex-direction: row;
+}
+
+.mt{
+  margin-top: 80px;
+}
+
+.a  {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+}
+
+button{
+  width: 30%;
+  margin: 10px;
+}
+
+
+.rtlDr{
+  direction: rtl;
+}
+
+.ml{
+  margin-left: 20px;
+  margin-right: 20px;
+}

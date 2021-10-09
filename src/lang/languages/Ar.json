@@ -1,0 +1,20 @@
+{
+  "Ar":{
+    "translation": {
+    "header":{
+      "Home":"الرسية",
+      "About":"عنا",
+      "Contact":"تاصل"
+    },
+    "Cites":{
+      "title":"المدن",
+      "Gaza":"غزة",
+      "Nablus":"نابلس",
+      "Rafah":"رفح",
+      "London":"لندن",
+      "Paris":"باريس",
+      "Hebron":"خليل",
+      "Jerusalem":"قدس"
+    }
+  }}
+}

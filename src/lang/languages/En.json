@@ -1,0 +1,20 @@
+{
+  "En":{
+    "translation": {
+    "header":{
+      "Home":"Home",
+      "About":"About",
+      "Contact":"Contact us"
+    },
+    "Cites":{
+      "title":"Cites",
+      "Gaza":"Gaza",
+      "Nablus":"Nablus",
+      "Rafah":"Rafah",
+      "London":"London",
+      "Paris":"Paris",
+      "Hebron":"Hebron",
+      "Jerusalem":"Jerusalem"
+    }
+  }}
+}

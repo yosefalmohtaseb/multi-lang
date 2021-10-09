@@ -1,0 +1,55 @@
+{
+  "Ar":{
+    "translation": {
+    "header":{
+      "Home":"الرسية",
+      "About":"عنا",
+      "Contact":"تاصل"
+    },
+    "Cites":{
+      "title":"المدن",
+      "Gaza":"غزة",
+      "Nablus":"نابلس",
+      "Rafah":"رفح",
+      "London":"لندن",
+      "Paris":"باريس",
+      "Hebron":"خليل",
+      "Jerusalem":"قدس"
+    }
+  }},
+  "En":{
+    "translation": {
+    "header":{
+      "Home":"Home",
+      "About":"About",
+      "Contact":"Contact us"
+    },
+    "Cites":{
+      "title":"Cites",
+      "Gaza":"Gaza",
+      "Nablus":"Nablus",
+      "Rafah":"Rafah",
+      "London":"London",
+      "Paris":"Paris",
+      "Hebron":"Hebron",
+      "Jerusalem":"Jerusalem"
+    }
+  }},
+  "Fr":{"translation": {
+    "header":{
+      "Home":"Home Fr",
+      "About":"About Fr",
+      "Contact":"Contact us Fr"
+    },
+    "Cites":{
+      "title":"Cites Fr",
+      "Gaza":"Gaza Fr",
+      "Nablus":"Nablus Fr",
+      "Rafah":"Rafah Fr",
+      "London":"London Fr",
+      "Paris":"Paris Fr",
+      "Hebron":"Hebron Fr",
+      "Jerusalem":"Jerusalem Fr"
+    }
+  }}
+}
